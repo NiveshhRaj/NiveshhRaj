@@ -206,7 +206,7 @@ const niveshhraj = {
   
   [![Email](https://img.shields.io/badge/Email-niveshhraj212004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niveshhraj212004@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Niveshhraj-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niveshhraj)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-lovatten.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-frontend-lovat-ten.vercel.app/)
   [![Mobile](https://img.shields.io/badge/Mobile-%2B91--6380519369-yellow?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916380519369)
 
 </div>
