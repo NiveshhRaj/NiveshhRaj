@@ -26,7 +26,7 @@ const niveshhraj = {
     email: "niveshhraj212004@gmail.com",
     phone: "+91-6380519369",
     linkedin: "linkedin.com/in/niveshhraj",
-    portfolio: "portfolio-frontend-lovatten.vercel.app"
+    portfolio: "portfolio-frontend-lovat-ten.vercel.app"
   },
   motto: () => "Code today, Impact tomorrow! 💪"
 };
